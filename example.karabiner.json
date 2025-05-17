@@ -1,0 +1,105 @@
+{
+  "profiles": [
+    {
+      "complex_modifications": {
+        "rules": [
+          {
+            "description": "Right Command + N → Toggle Favorite Apps",
+            "manipulators": [
+              {
+                "from": {
+                  "key_code": "1",
+                  "modifiers": { "mandatory": ["right_command"] }
+                },
+                "to": [
+                  {
+                    "shell_command": "/Users/matiasroje/git/shortcut-scripts/toggle-wezterm.sh"
+                  }
+                ],
+                "type": "basic"
+              },
+              {
+                "from": {
+                  "key_code": "2",
+                  "modifiers": { "mandatory": ["right_command"] }
+                },
+                "to": [
+                  {
+                    "shell_command": "/Users/matiasroje/git/shortcut-scripts/toggle-firefox.sh"
+                  }
+                ],
+                "type": "basic"
+              },
+              {
+                "from": {
+                  "key_code": "3",
+                  "modifiers": { "mandatory": ["right_command"] }
+                },
+                "to": [
+                  {
+                    "shell_command": "/Users/matiasroje/git/shortcut-scripts/toggle-slack.sh"
+                  }
+                ],
+                "type": "basic"
+              },
+              {
+                "from": {
+                  "key_code": "4",
+                  "modifiers": { "mandatory": ["right_command"] }
+                },
+                "to": [
+                  {
+                    "shell_command": "/Users/matiasroje/git/shortcut-scripts/toggle-cursor.sh"
+                  }
+                ],
+                "type": "basic"
+              },
+              {
+                "from": {
+                  "key_code": "5",
+                  "modifiers": { "mandatory": ["right_command"] }
+                },
+                "to": [
+                  {
+                    "shell_command": "/Users/matiasroje/git/shortcut-scripts/toggle-freelens.sh"
+                  }
+                ],
+                "type": "basic"
+              },
+              {
+                "from": {
+                  "key_code": "6",
+                  "modifiers": { "mandatory": ["right_command"] }
+                },
+                "to": [
+                  {
+                    "shell_command": "/Users/matiasroje/git/shortcut-scripts/toggle-finder.sh"
+                  }
+                ],
+                "type": "basic"
+              },
+              {
+                "from": {
+                  "key_code": "7",
+                  "modifiers": { "mandatory": ["right_command"] }
+                },
+                "to": [
+                  {
+                    "shell_command": "/Users/matiasroje/git/shortcut-scripts/toggle-google-chrome.sh"
+                  }
+                ],
+                "type": "basic"
+              }
+            ]
+          }
+        ]
+      },
+      "name": "Default profile",
+      "selected": true,
+      "virtual_hid_keyboard": {
+        "keyboard_type": "iso",
+        "keyboard_type_v2": "ansi"
+      }
+    }
+  ]
+}
