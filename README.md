@@ -11,6 +11,7 @@ This setup lets you press **Right ⌘ + [1–7]** to toggle your favorite apps:
 - 5 → Freelens
 - 6 → Finder
 - 7 → Google Chrome
+- 8 → Postman
 
 If the app is running, it gets focus. If not, it's launched.
 
