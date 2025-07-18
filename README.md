@@ -2,16 +2,16 @@
 
 ## What it does:
 
-This setup lets you press **Right ⌘ + [1–7]** to toggle your favorite apps:
+This setup lets you press **Right ⌘ + [1–8]** to toggle your favorite apps:
 
-- 1 → WezTerm
-- 2 → Firefox
-- 3 → Slack
-- 4 → Cursor
-- 5 → Freelens
-- 6 → Finder
-- 7 → Google Chrome
-- 8 → Postman
+- Right ⌘+1 → WezTerm
+- Right ⌘+2 → Firefox
+- Right ⌘+3 → Slack
+- Right ⌘+4 → Windsurf
+- Right ⌘+5 → Freelens
+- Right ⌘+6 → Finder
+- Right ⌘+7 → Google Chrome
+- Right ⌘+8 → Postman
 
 If the app is running, it gets focus. If not, it's launched.
 
