@@ -37,7 +37,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-slack.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-whatsapp.sh"
                   }
                 ],
                 "type": "basic"
