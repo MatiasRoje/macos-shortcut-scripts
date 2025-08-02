@@ -4,7 +4,7 @@
       "complex_modifications": {
         "rules": [
           {
-            "description": "Right Command + N → Toggle Favorite Apps",
+            "description": "right command + n → toggle favorite apps",
             "manipulators": [
               {
                 "from": {
@@ -13,7 +13,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-wezterm.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-wezterm.sh"
                   }
                 ],
                 "type": "basic"
@@ -25,7 +25,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-firefox.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-zen.sh"
                   }
                 ],
                 "type": "basic"
@@ -37,7 +37,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-slack.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-slack.sh"
                   }
                 ],
                 "type": "basic"
@@ -49,7 +49,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-windsurf.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-windsurf.sh"
                   }
                 ],
                 "type": "basic"
@@ -61,7 +61,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-freelens.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-freelens.sh"
                   }
                 ],
                 "type": "basic"
@@ -73,7 +73,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-finder.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-finder.sh"
                   }
                 ],
                 "type": "basic"
@@ -85,7 +85,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-google-chrome.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-google-chrome.sh"
                   }
                 ],
                 "type": "basic"
@@ -97,7 +97,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/Users/matiasroje/git/macos-shortcut-scripts/toggle-postman.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-postman.sh"
                   }
                 ],
                 "type": "basic"
@@ -106,7 +106,7 @@
           }
         ]
       },
-      "name": "Default profile",
+      "name": "default profile",
       "selected": true,
       "virtual_hid_keyboard": {
         "keyboard_type": "iso",
