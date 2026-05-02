@@ -13,7 +13,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-wezterm.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-ghostty.sh"
                   }
                 ],
                 "type": "basic"
@@ -49,7 +49,7 @@
                 },
                 "to": [
                   {
-                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-windsurf.sh"
+                    "shell_command": "/users/matiasroje/git/macos-shortcut-scripts/toggle-vscode.sh"
                   }
                 ],
                 "type": "basic"

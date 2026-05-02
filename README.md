@@ -4,10 +4,10 @@
 
 This setup lets you press **Right ⌘ + [1–8]** to toggle your favorite apps:
 
-- Right ⌘+1 → WezTerm
+- Right ⌘+1 → Ghostty
 - Right ⌘+2 → Firefox
-- Right ⌘+3 → Slack
-- Right ⌘+4 → Windsurf
+- Right ⌘+3 → Whatsapp
+- Right ⌘+4 → Visual Studio Code
 - Right ⌘+5 → Freelens
 - Right ⌘+6 → Finder
 - Right ⌘+7 → Google Chrome
@@ -18,7 +18,7 @@ If the app is running, it gets focus. If not, it's launched.
 ## How to set it up:
 
 1. **Install [Karabiner-Elements](https://karabiner-elements.pqrs.org/)**
-2. Create app toggling scripts in `~/git/shortcut-scripts/`, like:
+2. Create app toggling scripts in `~/git/macos-shortcut-scripts/`, like:
 
    ```bash
    # Example: toggle-firefox.sh
